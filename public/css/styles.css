@@ -1,0 +1,4 @@
+/* Purple button style */
+.btn-db-primary{font-weight: 600;color:#fff;background-color: #7952b3;border-color: #7952b3}
+.btn-db-primary:hover,.btn-db-primary:active{color: #fff;background-color: #61428f;border-color: #61428f}
+.btn-db-primary:focus{box-shadow: 0 0 0 3px rgb(121, 82, 179, 0.25)}
